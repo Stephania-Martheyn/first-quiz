@@ -61,7 +61,7 @@ public Drink pressButton(String name) throws NotEnoughMoneyException, UnknownDri
     drinks.add(new SimpleDrink("Sprite", true, 3));
     drinks.add(new SimpleDrink("Fanta", true, 3));
     drinks.add(new SimpleDrink("Water", false, 2));
-    drinks.add(new SimpleDrink("KarenTea", false, 4)); // Añade KarenTea
+    drinks.add(new SimpleDrink("KarenTea", false, 4)); 
   }
 
 }
